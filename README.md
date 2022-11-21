@@ -4,15 +4,14 @@
 <img src="experiment/images/iitkgp.png" width="10%">
 </div>
 
+### About the Experiment 
 <b>Discipline | <b> Electronics and Communication and Engineering 
 :--|:--|
 <b> Lab | <b> **Basic Electronics**
 <b> Experiment|     <b> **RC Frequency Response and Experiment 13**
 
 
-### About the Experiment 
-
-<!--Fill a brief description of this experiment here-->
+### Subject matter expert
 
 <b>Name of Developer | <b> **Prof. Chittaranjan Mandal**
 :--|:--|
